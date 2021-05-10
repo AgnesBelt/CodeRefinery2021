@@ -3,4 +3,3 @@ ingredients
 * 1/2 onion
 * lime
 * salt
-* Line to get rid of 
