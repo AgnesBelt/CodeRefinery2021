@@ -2,4 +2,4 @@ ingredients
 * avocado 
 * 1/2 onion
 * lime
-* salt
+* 1/2 tsp salt
